@@ -1,4 +1,4 @@
-public class butterfly(
+public class butterfly{
 
 public static void butterfly(int n){
     for(int i = 1;i<=n;i++){
@@ -36,4 +36,4 @@ public static void butterfly(int n){
 public static void main(String[] args) {
     butterfly(4);
 }
-)
+}
