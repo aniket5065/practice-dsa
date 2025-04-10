@@ -13,7 +13,7 @@ public class Kadanes {
             ms = Math.max(cs, ms);
 
         }
-        System.out.println(" Our max subarray sum is:" + ms);
+        S ystem.out.println(" Our max subarray sum is:" + ms);
     }
 
     public static void main(String []args){
